@@ -1,0 +1,16 @@
+Guiding questions
+● Where is your data located?
+● How is the data organized?
+● Are there issues with bias or credibility in this data? Does your data ROCCC?
+● How are you addressing licensing, privacy, security, and accessibility?
+● How did you verify the data’s integrity?
+● How does it help you answer your question?
+● Are there any problems with the data?
+
+1. Data is located online from divvy bikes website.
+2.The data is organized in a tabular format within a CSV file. Each row represents an individual record, and each column corresponds to a specific attribute or variable, separated by commas.
+3.Yes, it is reliable, original, comprehensive, current and cited.
+4. I can put protection by putting privacy control or putting password on the file so that only authorized persons are the only ones who can access the data.
+5. The data was sourced from a well-known bike website in chicago, and confirmed to be up-to-date but there are  missing values to be handled.
+6. The data helped me to answer my question/s by recognizing or identifying some columns that is possible to be a key metrics.
+7. There are missing values.

@@ -1,0 +1,46 @@
+Guiding questions
+● How should you organize your data to perform analysis on it?
+● Has your data been properly formatted?
+● What surprises did you discover in the data?
+● What trends or relationships did you find in the data?
+● How will these insights help answer your business questions?
+
+1. Use sort and filter and use aggregate function to get the average, max, etc.
+2. Yes.
+3. I was surprised that casual customer have higher average of ride length than subscibers.
+4. The casual customers have most number of trips when weekends while subscribers mostly have more trips on weekdays.
+5. These insights will help to have a better decision making on how to convert casual customers to become a subscriber.
+
+
+Tasks Did:
+1. Get the average ride length
+2. Get the max ride length
+3. Get the mode in day of week
+4. Make a pivot table
+
+On the pivot table:
+	-Put the user type on rows, then
+	-Put the ride id to values and set it to COUNT
+	-Put the ride length to values and set it to AVERAGE
+	-Put the day of week on the columns
+
+
+Make a chart for COUNT of ride id and AVERAGE of ride length, then
+Compare for Customer and Subscriber by filtering it.
+
+
+Summary of Analysis:
+1. The maximum ride length is 23hrs 32min 1sec
+2. The average ride length is 12min 2sec
+3. The day of most trips is 6 -> Friday
+
+(Based on Charts)
+4. Casual Customer have 2-3 times higher average of ride length than subscribers.
+5. Subscribers have higher total number of trips than Casual Customer with the highest almost 9 times than lowest in Casual Customer.
+6. Most trips of Casual Customers were on weekends while Subscribers mostly on weekdays.
+
+
+
+
+
+

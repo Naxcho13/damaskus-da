@@ -1,0 +1,49 @@
+
+1. I copy pasted first the start_time and end_time column and i work on the copies.
+
+2. I converted the format of start_time and end_time to 'mm/dd/yyyy hh:mm:ss am/pm' so that when i compute for ride length, Excel can automatically compute their difference.
+
+3. I also made a custom format for the result of ride lengths which is 'h:mm:ss'.
+
+4. I use Weekday() function to get the day of the week from the start time, indicating 1=Sunday to 7=Saturday.
+
+5. Then I copy and pasted as values the columns ride_length and day_of_week so that when i delete the copy
+  start_time and end_time column those values will still be available.
+
+6. I delete the copy start_time and end_time column and also the birthyear column since it is not very useful.
+
+7. I use SQL to select all columns with no null values then export the loaded query into a csv file to work    with.
+- I use this query 
+SELECT *
+FROM your_table
+WHERE column1 IS NOT NULL
+  AND column2 IS NOT NULL
+  AND column3 IS NOT NULL
+  AND column4 IS NOT NULL
+  AND column5 IS NOT NULL
+  AND column6 IS NOT NULL
+  AND column7 IS NOT NULL
+  AND column8 IS NOT NULL
+  AND column9 IS NOT NULL
+  AND column10 IS NOT NULL;
+
+
+Guiding questions
+● What tools are you choosing and why?
+● Have you ensured your data’s integrity?
+● What steps have you taken to ensure that your data is clean?
+● How can you verify that your data is clean and ready to analyze?
+● Have you documented your cleaning process so you can review and share those
+   results?
+
+1. I use Excel so that it is easy to make a column for ride length and day of the week. I also use SQL because this is a large dataset and it makes it easy to select all columns with no null values and then export the resulting table.
+
+2. Yes
+
+3. First there's no duplicate values, I checked it by trying to remove duplicates in Excel. Also I checked the format to be consistent. And I also remove null values using sql.
+
+4. By making sure it is complete, correct and have consistent format.
+
+5. Yes.
+
+

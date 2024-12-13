@@ -1,0 +1,21 @@
+Guiding questions
+● Were you able to answer the question of how annual members and casual riders use Cyclistic bikes
+differently?
+● What story does your data tell?
+● How do your findings relate to your original question?
+● Who is your audience? What is the best way to communicate with them?
+● Can data visualization help you share your findings?
+
+1. Yes
+
+2. The data reveals distinct usage patterns between Casual Customers and Subscribers. Casual Customers take longer rides, primarily on weekends, indicating recreational use. Subscribers, on the other hand, take shorter but more frequent trips, mostly on weekdays, reflecting practical, commute-driven behavior. These trends highlight the bike-sharing service's dual role in supporting both leisure and daily transportation needs.
+
+3. They tell how Casual Customers and Subscribers use Cyclistic bikes differently.
+
+4. N/A
+
+5. Yes
+
+
+Supporting Visualizations are in Charts folder and the key findings were in Analyze.txt file
+

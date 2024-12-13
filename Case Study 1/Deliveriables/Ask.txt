@@ -1,0 +1,9 @@
+Business Tasks/ Problem trying to solve:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+How can insights drive business decisions?
+
+-> Insights can drive business decisions by developing marketing strategies that can help
+   to solve their business problems

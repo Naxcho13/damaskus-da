@@ -1,0 +1,83 @@
+Guiding questions
+● What is your final conclusion based on your analysis?
+● How could your team and business apply your insights?
+● What next steps would you or your stakeholders take based on your findings?
+● Is there additional data you could use to expand on your findings
+
+1. Casual riders and annual members have distinct usage patterns: casual riders prioritize longer, leisure-focused rides on weekends, while annual members take shorter, frequent trips mostly on weekdays for practical purposes like commuting. To convert casual riders into members, Cyclistic can emphasize the value and convenience of memberships for leisure and daily transportation needs, potentially encouraging broader usage.
+
+2. Digital Media Strategies:
+Leverage digital channels like social media, email, and app notifications to reach casual riders with personalized offers, testimonials, and success stories from other riders who transitioned to membership.
+
+Subscription Tier Options: Create affordable membership plans tailored for recreational riders who primarily ride on weekends.
+
+Targeted Marketing Campaigns:
+Use data-driven campaigns to highlight the benefits of membership, such as cost savings, flexibility, and additional perks like discounts for frequent users.
+
+
+3. 
+Define Ride Length Limits for Casual Riders:
+Determine an optimal maximum ride length for casual users that gently nudges them toward membership without alienating them.
+Clearly communicate these limits within the app and website to set expectations.
+
+Introduce Weekend-Specific Promotions:
+Offer trial memberships with weekend-specific perks, such as extended ride lengths, to attract casual riders who ride on weekends.
+Include special events or incentives (e.g., "Weekend Unlimited Rides for Members").
+
+Engage Casual Riders Directly:
+Conduct surveys or in-app polls to understand how they perceive the new policies and perks.
+Offer tailored discounts or loyalty points for casual riders showing high usage patterns.
+
+Evaluate Revenue and Usage Trends:
+Monitor how these changes impact overall revenue, casual rider satisfaction, and membership sign-ups.
+Adjust the policies or promotions based on feedback and observed trends to maximize conversions
+
+4. No, there's no additional data
+
+
+Top 3 Recommendations:
+
+1. Limit Ride Length for Casual Customers
+
+2. Offer Additional Ride Length to Members/Subscribers
+
+3. Make a subscription tier option
+	-like for students
+	-senior citizens
+	- or just a regular
+
+   Create an affordable subscription plan tailored for types of casual riders
+
+
+Actionable Steps:
+
+1. Set a ride length limit that balances revenue and customer satisfaction
+   Update the pricing structure to reflect surcharges for rides exceeding the limit.
+   Implement notifications to casual customers during rides (e.g., via app alerts) when they approach the ride length limit.
+
+2. Identify a value threshold where offering additional ride length incentivizes memberships while maintaining  	profitability.
+   Update subscription terms and conditions to highlight the additional ride length as a member benefit.
+
+3. For students
+	Require proof of enrollment (e.g., student IDs) for eligibility.
+	Offer free trial periods or introductory discounts to encourage sign-ups.
+
+   For senior citizen
+	Create a simple verification process for senior eligibility.
+	Develop user-friendly app interfaces or support systems for seniors.
+
+   For regular
+	Offer a flexible pricing structure with monthly, quarterly, and annual payment options.
+	Highlight the cost savings compared to casual rides in promotional materials.
+
+
+
+
+
+
+
+
+
+
+ 
+
